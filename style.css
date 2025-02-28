@@ -16,6 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    
 }
 
 .logo {
@@ -49,6 +50,7 @@ header {
     width: 100%;
     top: 0;
     z-index: 1000;
+    
 }
 
 .hamburger {
@@ -57,6 +59,7 @@ header {
     border: none;
     cursor: pointer;
     color: #2b4c5b;
+    margin-right: 80px;
 }
 
 /* Dropdown Menu */
@@ -71,6 +74,7 @@ header {
     border-radius: 10px;
     padding: 10px 0;
     width: 200px;
+    margin-right: 80px;
 }
 
 .nav-menu.active {
